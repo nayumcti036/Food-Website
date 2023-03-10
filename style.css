@@ -663,7 +663,7 @@ footer {
     display: block;
     border: .2rem solid rgba(0, 0, 0, .1);
     border-left: .5rem solid var(--red);
-    background: #fff;
+    background: #0f0f0f;
   }
 
 }
